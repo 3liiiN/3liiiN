@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**3liiiN/3liiiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate interested in cybersecurity, cloud infrastructure, and automation.
 
-Here are some ideas to get you started:
+I'm currently building my technical foundations through hands-on projects, focusing on understanding how systems work rather than just learning commands or copying code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Learning
+
+- **Linux & Networking** — Command-line tools, system fundamentals, and networking concepts.
+- **Git & GitHub** — Version control, SSH authentication, and project management.
+- **Web Development** — HTML, CSS, and JavaScript.
+- **Programming & Automation** — Python and Bash.
+- **Cloud & Security** — Exploring AWS, cloud infrastructure, and security fundamentals.
+
+### Current Focus
+
+Working through practical programming and systems projects, improving my problem-solving skills, and building a portfolio that demonstrates my progress.
+
+### Projects
+
+More projects and exercises will be added as I progress.
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/alialnessir/
